@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from TURKIYE</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Bursa Technical University.<br>🌱 I’m currently learning Python and C.
+🔭 I’m currently studying  on Bursa Technical University.<br>🌱 I’m currently learning Python and C.
 
 
 ## 🌐 Socials:
