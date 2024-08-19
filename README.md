@@ -1,4 +1,5 @@
-[![MasterHead](https://cn.i.cdn.ti-platform.com/content/341/regular-show/showpage/tr/showpagehero_regularshow2x.1545bf44.png?imwidth=640)
+![2024-08-19-Furkan-Erten](https://github.com/user-attachments/assets/1e0bdbed-66d1-44d1-9759-a9daa584903e)
+
 <h1 align="center">Hi 👋, I'm Furkan ERTEN</h1>
 <h3 align="center">A passionate frontend developer from TURKIYE</h3>
 
