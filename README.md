@@ -1,5 +1,4 @@
-![2024-08-19-Furkan-Erten](https://github.com/user-attachments/assets/1e0bdbed-66d1-44d1-9759-a9daa584903e)
-
+<p align="center"><img src="https://github.com/FurkanErten/FurkanErten/blob/main/gif.gif" width="700"/></p><br>
 <h1 align="center">Hi 👋, I'm Furkan ERTEN</h1>
 <h3 align="center">A passionate frontend developer from TURKIYE</h3>
 
