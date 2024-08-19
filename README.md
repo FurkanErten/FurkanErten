@@ -1,4 +1,5 @@
-<p align="center"><img src="https://github.com/FurkanErten/FurkanErten/blob/main/gif.gif" width="500"/></p><br>
+<p align="center"><img src="https://github.com/FurkanErten/FurkanErten/blob/main/gif.gif" width="800"/></p>
+
 <h1 align="center">Hi 👋, I'm Furkan ERTEN</h1>
 <h3 align="center">A passionate frontend developer from TURKIYE</h3>
 
