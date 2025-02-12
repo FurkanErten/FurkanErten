@@ -34,10 +34,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanErten&theme=shadow_blue&hide_border=true" width="500"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanErten&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="500"/>
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
