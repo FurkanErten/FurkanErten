@@ -32,7 +32,7 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FurkanErten&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" width="500"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanErten&theme=shadow_blue&hide_border=true" width="500"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanErten&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="500"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanErten&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="500"/></p>
 
 <div align="center">
   <picture>
@@ -41,5 +41,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
