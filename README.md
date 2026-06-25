@@ -281,5 +281,6 @@
 <h2 align="center">⚡ Engineering Motto</h2>
 
 <p align="center">
-  <b>Build real systems. Test in the field. Improve continuously.</b>
+  <b>Türk mühendislerin alnında, Cumhuriyet istikbalini aydınlatan ışık parlar.
+"Mustafa Kemal Atatürk"</b>
 </p>
