@@ -282,5 +282,6 @@
 
 <p align="center">
   <b>Türk mühendislerin alnında, Cumhuriyet istikbalini aydınlatan ışık parlar.
-"Mustafa Kemal Atatürk"</b>
+</b>
+  <b>"Mustafa Kemal Atatürk"</b>
 </p>
