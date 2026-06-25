@@ -82,27 +82,27 @@
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55" height="55" alt="MATLAB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="65" height="65" alt="MATLAB" />
       <br>
       <sub><b>MATLAB</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Simulink-FFB000?style=for-the-badge&logo=mathworks&logoColor=white" height="35" alt="Simulink" />
+      <img src="./assets/simulink.png" width="70" height="70" alt="Simulink" />
       <br>
       <sub><b>Simulink</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge&logo=proteus&logoColor=white" height="35" alt="Proteus" />
+      <img src="./assets/proteus.png" width="70" height="70" alt="Proteus" />
       <br>
       <sub><b>Proteus</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/PSpice-8B0000?style=for-the-badge&logoColor=white" height="35" alt="PSpice" />
+      <img src="./assets/pspice.png" width="95" height="45" alt="PSpice" />
       <br>
       <sub><b>PSpice</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Gazebo-7057FF?style=for-the-badge&logo=ros&logoColor=white" height="35" alt="Gazebo" />
+      <img src="./assets/gazebo.png" width="70" height="70" alt="Gazebo" />
       <br>
       <sub><b>Gazebo</b></sub>
     </td>
@@ -281,7 +281,5 @@
 <h2 align="center">⚡ Engineering Motto</h2>
 
 <p align="center">
-  <b>Türk mühendislerin alnında, Cumhuriyet istikbalini aydınlatan ışık parlar.
-</b>
-  <b>"Mustafa Kemal Atatürk"</b>
+  <b>Build real systems. Test in the field. Improve continuously.</b>
 </p>
