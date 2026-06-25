@@ -62,30 +62,52 @@
 <h3 align="center">Software Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github" alt="Software Development" />
+  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github" alt="Software Development Tools" />
 </p>
 
 <h3 align="center">Computer Vision & AI</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="Computer Vision and AI" />
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="Computer Vision and AI Tools" />
 </p>
 
 <h3 align="center">Embedded Systems & Hardware</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu" alt="Embedded Systems" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu" alt="Embedded Systems and Hardware Tools" />
 </p>
 
 <h3 align="center">Engineering Tools</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Simulink-FFB000?style=for-the-badge" alt="Simulink" />
-  <img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge" alt="Proteus" />
-  <img src="https://img.shields.io/badge/PSpice-8B0000?style=for-the-badge" alt="PSpice" />
-  <img src="https://img.shields.io/badge/Gazebo-7057FF?style=for-the-badge" alt="Gazebo" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55" height="55" alt="MATLAB" />
+      <br>
+      <sub><b>MATLAB</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Simulink-FFB000?style=for-the-badge&logo=mathworks&logoColor=white" height="35" alt="Simulink" />
+      <br>
+      <sub><b>Simulink</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge&logo=proteus&logoColor=white" height="35" alt="Proteus" />
+      <br>
+      <sub><b>Proteus</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/PSpice-8B0000?style=for-the-badge&logoColor=white" height="35" alt="PSpice" />
+      <br>
+      <sub><b>PSpice</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Gazebo-7057FF?style=for-the-badge&logo=ros&logoColor=white" height="35" alt="Gazebo" />
+      <br>
+      <sub><b>Gazebo</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -94,7 +116,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Vision-00D9FF?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded Systems" />
-  <img src="https://img.shields.io/badge/UAV%20Systems-FF6F00?style=for-the-badge" alt="UAV Systems" />
+  <img src="https://img.shields.io/badge/UAV%20Systems-FF6F00?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="UAV Systems" />
   <img src="https://img.shields.io/badge/Real--Time%20Software-32CD32?style=for-the-badge" alt="Real-Time Software" />
   <img src="https://img.shields.io/badge/Telemetry%20Systems-6A5ACD?style=for-the-badge" alt="Telemetry Systems" />
   <img src="https://img.shields.io/badge/Control%20Systems-FF1493?style=for-the-badge" alt="Control Systems" />
@@ -195,7 +217,7 @@
 <h2 align="center">🔥 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FurkanErten&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FurkanErten&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </p>
 
 ---
