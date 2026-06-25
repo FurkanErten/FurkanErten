@@ -79,35 +79,29 @@
 
 <h3 align="center">Engineering Tools</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="65" height="65" alt="MATLAB" />
-      <br>
-      <sub><b>MATLAB</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/simulink.png" width="70" height="70" alt="Simulink" />
-      <br>
-      <sub><b>Simulink</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/proteus.png" width="70" height="70" alt="Proteus" />
-      <br>
-      <sub><b>Proteus</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/pspice.png" width="95" height="45" alt="PSpice" />
-      <br>
-      <sub><b>PSpice</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/gazebo.png" width="70" height="70" alt="Gazebo" />
-      <br>
-      <sub><b>Gazebo</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="58" alt="MATLAB" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/simulink.png" height="54" alt="Simulink" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/proteus.png" height="54" alt="Proteus" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/pspice.png" height="30" alt="PSpice" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/gazebo.png" height="54" alt="Gazebo" />
+</p>
+
+<p align="center">
+  <sub><b>MATLAB</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Simulink</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Proteus</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>PSpice</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Gazebo</b></sub>
+</p>
 
 ---
 
