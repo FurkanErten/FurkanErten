@@ -23,6 +23,19 @@ jobs:
     timeout-minutes: 25
 
     steps:
+      - name: Restore existing animation files
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: output
+          path: previous-output
+          persist-credentials: false
+
+      - name: Copy existing SVGs
+        run: |
+          mkdir -p dist
+          cp previous-output/*.svg dist/ 2>/dev/null || true
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -31,14 +44,51 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Generate arcade contribution games
+      - name: Generate Pac-Man
         uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper"
+          games: "pacman"
           player_style: opportunistic
 
+      - name: Generate Breakout
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "breakout"
+
+      - name: Generate Galaga
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "galaga"
+
+      - name: Generate Puzzle Bobble
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "puzzle-bobble"
+
+      - name: Generate Bomberman
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "bomberman"
+
+      - name: Generate Minesweeper
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "minesweeper"
+
       - name: Publish animations to output branch
+        if: always()
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
