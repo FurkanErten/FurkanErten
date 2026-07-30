@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/github/stars/FurkanErten?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </p>
 
----
-
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
@@ -29,8 +27,6 @@
   🛩️ I am interested in <b>autonomous systems, defense technologies, ground control software and embedded AI</b>.<br>
   ⚙️ I enjoy building systems where <b>software, electronics and real-world hardware</b> work together.
 </p>
-
----
 
 <h2 align="center">🌐 Connect with Me</h2>
 
@@ -48,8 +44,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
----
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -109,8 +103,6 @@
   </tr>
 </table>
 
----
-
 <h2 align="center">🚀 Main Focus Areas</h2>
 
 <p align="center">
@@ -122,8 +114,6 @@
   <img src="https://img.shields.io/badge/Control%20Systems-FF1493?style=for-the-badge" alt="Control Systems" />
   <img src="https://img.shields.io/badge/Hardware--Software%20Integration-111111?style=for-the-badge" alt="Hardware-Software Integration" />
 </p>
-
----
 
 <h2 align="center">🛠️ Featured Projects</h2>
 
@@ -178,8 +168,6 @@
   </tr>
 </table>
 
----
-
 <h2 align="center">🏆 Achievements & Certifications</h2>
 
 <p align="center">
@@ -191,20 +179,16 @@
   🚁 UAV Licenses — İHA-0 and İHA-1
 </p>
 
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FurkanErten&theme=tokyonight&hide_border=true&show_icons=true&count_private=false" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanErten&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=FurkanErten&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanErten&theme=tokyonight&hide_border=true&layout=compact" width="50%" alt="Top Languages" />
 </p>
-
----
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
@@ -212,15 +196,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=FurkanErten&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
----
-
 <h2 align="center">🔥 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FurkanErten&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </p>
-
----
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -232,9 +212,63 @@
   </picture>
 </div>
 
----
-
 <h2 align="center">🎮 Contribution Games</h2>
+
+<p align="center">
+  <b>👾 Pac-Man Contribution Graph</b>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<p align="center">
+  <b>🧱 Breakout Contribution Graph</b>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/breakout-contribution-graph.svg">
+    <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/breakout-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<p align="center">
+  <b>🚀 Galaga Contribution Graph</b>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/galaga-contribution-graph.svg">
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/galaga-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<p align="center">
+  <b>🫧 Puzzle Bobble Contribution Graph</b>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/puzzle-bobble-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/puzzle-bobble-contribution-graph.svg">
+    <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/puzzle-bobble-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
+<br>
 
 <p align="center">
   <b>💣 Bomberman Contribution Graph</b>
@@ -261,22 +295,6 @@
     <img alt="Minesweeper contribution graph" src="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/minesweeper-contribution-graph.svg" width="100%">
   </picture>
 </div>
-
-<br>
-
-<p align="center">
-  <b>👾 Pac-Man Contribution Graph</b>
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
-
----
 
 <h2 align="center">⚡ Engineering Motto</h2>
 
