@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/github/stars/FurkanErten?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </p>
 
+---
+
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
@@ -27,6 +29,8 @@
   🛩️ I am interested in <b>autonomous systems, defense technologies, ground control software and embedded AI</b>.<br>
   ⚙️ I enjoy building systems where <b>software, electronics and real-world hardware</b> work together.
 </p>
+
+---
 
 <h2 align="center">🌐 Connect with Me</h2>
 
@@ -44,6 +48,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -103,6 +109,8 @@
   </tr>
 </table>
 
+---
+
 <h2 align="center">🚀 Main Focus Areas</h2>
 
 <p align="center">
@@ -114,6 +122,8 @@
   <img src="https://img.shields.io/badge/Control%20Systems-FF1493?style=for-the-badge" alt="Control Systems" />
   <img src="https://img.shields.io/badge/Hardware--Software%20Integration-111111?style=for-the-badge" alt="Hardware-Software Integration" />
 </p>
+
+---
 
 <h2 align="center">🛠️ Featured Projects</h2>
 
@@ -168,6 +178,8 @@
   </tr>
 </table>
 
+---
+
 <h2 align="center">🏆 Achievements & Certifications</h2>
 
 <p align="center">
@@ -178,6 +190,8 @@
   🤖 Turkcell Academy — Deep Learning: CNN, RNN, LSTM<br>
   🚁 UAV Licenses — İHA-0 and İHA-1
 </p>
+
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -190,17 +204,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanErten&theme=tokyonight&hide_border=true&layout=compact" width="50%" alt="Top Languages" />
 </p>
 
+---
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FurkanErten&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
+---
+
 <h2 align="center">🔥 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FurkanErten&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </p>
+
+---
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -211,6 +231,8 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
+---
 
 <h2 align="center">🎮 Contribution Games</h2>
 
@@ -295,6 +317,8 @@
     <img alt="Minesweeper contribution graph" src="https://raw.githubusercontent.com/FurkanErten/FurkanErten/output/minesweeper-contribution-graph.svg" width="100%">
   </picture>
 </div>
+
+---
 
 <h2 align="center">⚡ Engineering Motto</h2>
 
